@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "62382DD2-A881-4913-83C4-2A41511A390B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA4C81C4-5C7B-4500-8DF4-F7F8F7ABA45E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "_buffer(min:max:channel:axes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA4C81C4-5C7B-4500-8DF4-F7F8F7ABA45E - 7912f03ebc002cee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;Swift.Double&gt; of (extension in FastStyleTransferDemo):__C.MLMultiArray.(_buffer in _9A4FE17207DD6A87C15B7D578B79BAC4)&lt;A where A: FastStyleTransferDemo.MultiArrayType&gt;(min: A, max: A, channel: Swift.Optional&lt;Swift.Int&gt;, axes: Swift.Optional&lt;(Swift.Int, Swift.Int, Swift.Int)&gt;) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FastStyleTransferDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurtonelli/dev/iOS/FastStyleTransferDemo/FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "EA4C81C4-5C7B-4500-8DF4-F7F8F7ABA45E - 2178b16f81f1eeec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;Swift.Float&gt; of (extension in FastStyleTransferDemo):__C.MLMultiArray.(_buffer in _9A4FE17207DD6A87C15B7D578B79BAC4)&lt;A where A: FastStyleTransferDemo.MultiArrayType&gt;(min: A, max: A, channel: Swift.Optional&lt;Swift.Int&gt;, axes: Swift.Optional&lt;(Swift.Int, Swift.Int, Swift.Int)&gt;) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FastStyleTransferDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurtonelli/dev/iOS/FastStyleTransferDemo/FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "EA4C81C4-5C7B-4500-8DF4-F7F8F7ABA45E - a5727f763077c9f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;Swift.Int32&gt; of (extension in FastStyleTransferDemo):__C.MLMultiArray.(_buffer in _9A4FE17207DD6A87C15B7D578B79BAC4)&lt;A where A: FastStyleTransferDemo.MultiArrayType&gt;(min: A, max: A, channel: Swift.Optional&lt;Swift.Int&gt;, axes: Swift.Optional&lt;(Swift.Int, Swift.Int, Swift.Int)&gt;) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FastStyleTransferDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurtonelli/dev/iOS/FastStyleTransferDemo/FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B125095D-8347-43C4-B3E5-ACA0D8ED8916"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "_buffer(min:max:channel:axes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B125095D-8347-43C4-B3E5-ACA0D8ED8916 - 7912f03ebc002cee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;Swift.Double&gt; of (extension in FastStyleTransferDemo):__C.MLMultiArray.(_buffer in _9A4FE17207DD6A87C15B7D578B79BAC4)&lt;A where A: FastStyleTransferDemo.MultiArrayType&gt;(min: A, max: A, channel: Swift.Optional&lt;Swift.Int&gt;, axes: Swift.Optional&lt;(Swift.Int, Swift.Int, Swift.Int)&gt;) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FastStyleTransferDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurtonelli/dev/iOS/FastStyleTransferDemo/FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B125095D-8347-43C4-B3E5-ACA0D8ED8916 - 2178b16f81f1eeec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;Swift.Float&gt; of (extension in FastStyleTransferDemo):__C.MLMultiArray.(_buffer in _9A4FE17207DD6A87C15B7D578B79BAC4)&lt;A where A: FastStyleTransferDemo.MultiArrayType&gt;(min: A, max: A, channel: Swift.Optional&lt;Swift.Int&gt;, axes: Swift.Optional&lt;(Swift.Int, Swift.Int, Swift.Int)&gt;) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FastStyleTransferDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurtonelli/dev/iOS/FastStyleTransferDemo/FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B125095D-8347-43C4-B3E5-ACA0D8ED8916 - a5727f763077c9f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "generic specialization &lt;Swift.Int32&gt; of (extension in FastStyleTransferDemo):__C.MLMultiArray.(_buffer in _9A4FE17207DD6A87C15B7D578B79BAC4)&lt;A where A: FastStyleTransferDemo.MultiArrayType&gt;(min: A, max: A, channel: Swift.Optional&lt;Swift.Int&gt;, axes: Swift.Optional&lt;(Swift.Int, Swift.Int, Swift.Int)&gt;) -&gt; Swift.Optional&lt;__C.CVBufferRef&gt;"
+                  moduleName = "FastStyleTransferDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurtonelli/dev/iOS/FastStyleTransferDemo/FastStyleTransferDemo/Helpers/MLMultiArrayHelpers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F199FA0-D609-4A40-B229-3BB3F63E8627"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastStyleTransferDemo/Camera/MetalVideoRecorder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "writeFrame(forTexture:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "619ED46D-736D-4AEF-AC5F-E477A21384F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastStyleTransferDemo/ModelHandler/ModelDataHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "runModel(onFrame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F19AD487-9F25-4A88-BF50-B88A7626EDB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastStyleTransferDemo/ModelHandler/ModelDataHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "runModel(onFrame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
